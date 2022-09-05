@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -l |less /etc/passwd & /hosts
+ls -l |less /etc/passwd 
+la -l |less /hosts
