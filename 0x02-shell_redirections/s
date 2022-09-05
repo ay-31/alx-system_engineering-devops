@@ -1,0 +1,5 @@
+total 16
+-rwxr-xr-x 1 root root 34 Sep  5 15:37 0-hello_world
+-rwxr-xr-x 1 root root 20 Sep  5 16:00 1-confused_smiley
+-rwxr-xr-x 1 root root 28 Sep  5 16:03 2-hellofile
+-rw-r--r-- 1 root root 33 Sep  5 15:32 README.md
